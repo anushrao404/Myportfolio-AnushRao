@@ -21,3 +21,12 @@
   "license": "ISC",
   "description": ""
 }
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "main": "src/script.js",
+  "scripts": {
+    "start": "node src/script.js"
+  }
+}
+
