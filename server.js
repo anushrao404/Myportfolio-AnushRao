@@ -23,7 +23,7 @@ app.post('/',(req,res)=>{
     service: 'gmail', // Example with Gmail; use your email service provider
 auth: {
  user: 'anushrao9866@gmail.com', // Replace with your email 
-    pass: 'ctbmcrxkswrtgmrf', 
+    pass: 'qztjtbvfpirvmfqd', 
 
   }})
 
